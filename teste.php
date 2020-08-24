@@ -52,7 +52,7 @@ function combinacoesDe($k, $xs){
 
 print_r(combinacoesDe(15,$dezenas));
 
-teste  git
+primeiro teste git
 
 
 
